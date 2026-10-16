@@ -1,0 +1,129 @@
+header {
+    background-color: #b8860b;
+    padding: 15px;
+    text-align: center;
+}
+
+nav {
+    background-color: #b8860b;
+    padding: 10px;
+    color: #3e2c14;
+    margin-right: 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 15px;
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+    color: #3e2c14;
+}
+
+main {
+    background-color: #faf3e3;
+    padding: 20px;
+}
+
+section {
+    background-color: #f5ead3;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #b8860b;
+    color: #3e2c14;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    background-color: #fdf8ec;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #b8860b;
+    margin: 0px auto;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+.mapa-container {
+    text-align: center;
+}
+
+.mapa-container iframe {
+    display: inline-block;
+    border: 2px solid #b8860b;
+    border-radius: 8px;
+}
+
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 25px 10px;
+    border: 2px solid #b8860b;
+    background-color: #fdf8ec;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.card1 {
+    width: 400px;
+    margin: 30px auto;
+    padding: 25px 10px;
+    border: 2px solid #b8860b;
+    background-color: #fdf8ec;
+    text-decoration: none;
+    border-radius: 10px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card1 img {
+    width: 250px;
+    display: block;
+    border-radius: 8px;
+    margin: 10px 0 10px auto;
+}
+
+.card1 p {
+    margin: 0 0 10px 0;
+    text-align: left;
+}
+
+.card2 {
+    width: 400px;
+    margin: 30px auto;
+    padding: 25px 10px;
+    border: 2px solid #b8860b;
+    background-color: #fdf8ec;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
