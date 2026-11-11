@@ -64,12 +64,16 @@ img {
 
 .mapa-container {
     text-align: center;
+    margin: 30px auto;
+    width: 100%;
 }
 
 .mapa-container iframe {
-    display: inline-block;
+    display: block;
+    margin: 0 auto;
     border: 2px solid #b8860b;
     border-radius: 8px;
+    max-width: 100%;
 }
 
 .card {
