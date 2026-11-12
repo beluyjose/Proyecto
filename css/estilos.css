@@ -1,5 +1,5 @@
 header {
-    background-color: #b8860b;
+    background-color: #c5a55a;
     padding: 15px;
     text-align: center;
 }
@@ -100,9 +100,9 @@ img {
     padding: 25px 10px;
     border: 2px solid #b8860b;
     background-color: #fdf8ec;
+    text-align: center;
     text-decoration: none;
     border-radius: 10px;
-    text-align: left;
     display: inline-block;
     vertical-align: top;
 }
@@ -116,7 +116,7 @@ img {
 
 .card1 p {
     margin: 0 0 10px 0;
-    text-align: left;
+    text-align: center;
 }
 
 .card2 {
@@ -130,4 +130,19 @@ img {
     border-radius: 10px;
     display: inline-block;
     vertical-align: top;
+}
+.card3 {
+    width: 400px;
+    margin: 30px auto;
+    padding: 25px 10px;
+    border: 2px solid #b8860b;
+    background-color: #fdf8ec;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+h1 {
+    font-size: 3.5rem;
 }
